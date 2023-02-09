@@ -5,6 +5,10 @@
 
 - https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction#
 
+## The true benefits of moving to containers ?
+
+- https://developer.ibm.com/articles/true-benefits-of-moving-to-containers-1/
+
 ## More about Container
 
 - https://docker-curriculum.com/
@@ -21,7 +25,7 @@
 
 https://docs.docker.com/engine/
 
-## Running simple docker containers
+## Doing Smoke Test if docker has correctly installed ?
 
 docker --version
 
