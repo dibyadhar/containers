@@ -9,3 +9,8 @@ https://techblog.geekyants.com/understanding-docker-layers-and-caching-1
 Docker image command deep dive:
 
 (https://docs.docker.com/engine/reference/commandline/images/)
+
+
+PARKING NETWORKING CONETNT HERE, NEED TO REMOVE
+
+https://www.dasblinkenlichten.com/?s=docker+networking
